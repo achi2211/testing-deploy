@@ -4,7 +4,7 @@ lock '3.5.0'
 set :application, 'test'
 set :deploy_user, 'ec2-user'
 
-set :default_env, { path: "/usr/local/Cellar/rbenv/:/usr/local/Cellar/rbenv/:$PATH" }
+#set :default_env, { path: "/usr/local/Cellar/rbenv/:/usr/local/Cellar/rbenv/:$PATH" }
 
 set :scm, :git
 set :repo_url, 'https://github.com/achi2211/testing-deploy.git'
