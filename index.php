@@ -10,6 +10,6 @@
  
     </head> 
     <body> 
-          <h3><?php echo "This is a Capistrano Test with symbolic links - example"; ?></h3>
+          <h3><?php echo "This is a Capistrano Test with symbolic links - example - edited"; ?></h3>
     </body> 
 </html>
